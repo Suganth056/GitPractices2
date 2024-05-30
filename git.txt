@@ -1,1 +1,2 @@
-git merging
+
+git merge used to merge two branches
